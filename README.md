@@ -1,3 +1,9 @@
+Files
+
+    -- I have uploaded the whole playwright project to this repo,
+    however I have also uploaded the zip file, if you download the zip and extract it, followed by opening the extracted folder in vistual studio code / eclipse,
+    the project should be good to go as is
+    
 Test Notes
 
     -- Scenario 1 and 2 are done on the same demo site, however realised after 
